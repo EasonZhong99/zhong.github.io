@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 钟逸晟
+title: Yisheng(Eason) Zhong
 
 # Name pronunciation (optional)
-name_pronunciation: Yisheng ZHong
+name_pronunciation: 钟逸晟
 
 # Full name (for SEO)
 first_name: Yisheng
@@ -58,11 +58,11 @@ education:
     date_start: 2024-09-01
     # date_end: Now
     summary: |
-      My research focuses on developing advanced techniques for _LLM unlearning_. Supervised by [Prof Zhuangdi Zhu](https://zhuangdizhu.github.io/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      My research focuses on developing advanced techniques for _LLM unlearning_. Supervised by [Prof Zhuangdi Zhu](https://zhuangdizhu.github.io/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MEng CyberSecurity
     institution: University of Chinese Academy of Sciences
     date_start: 2021-09-01
     date_end: 2024-06-01
