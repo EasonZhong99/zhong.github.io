@@ -154,14 +154,14 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks
-    url: https://ieeexplore.ieee.org/abstract/document/10580526?casa_token=deqmNK4j6TIAAAAA:V-FHmr6lWWIkSIYbUbVlhP5MBZTLblHGQnbgTjeeo83dnr8hE-HscHnYW5ukLg832cil_T_b
-    date: '2024-05-09'
-    awarder: CSCWD 2024
-    icon: CSCWD 2024
-    summary: |
-      Federated Learning (FL) faces two major issues: privacy leakage and poisoning attacks, which may seriously undermine the reliability and security of the system. Overcoming them simultaneously poses a great challenge. This is because privacy protection policies prohibit access to users’ local gradients to avoid privacy leakage, while Byzantine-robust methods necessitate access to these gradients to defend against poisoning attacks. To address these problems, we propose a novel privacy-preserving Byzantine-robust FL framework PROFL. PROFL is based on the two-trapdoor additional homomorphic encryption algorithm and blinding techniques to ensure the data privacy of the entire FL process. During the defense process, PROFL first utilize secure Multi-Krum algorithm to remove malicious gradients at the user level. Then, according to the Pauta criterion, we innovatively propose a statistic-based privacy-preserving defense algorithm to eliminate outlier interference at the feature level and resist impersonation poisoning attacks with stronger concealment. Detailed theoretical analysis proves the security and efficiency of the proposed method. We conducted extensive experiments on two benchmark datasets, and PROFL improved accuracy by 39% to 75% across different attack settings compared to similar privacy-preserving robust methods, demonstrating its significant advantage in robustness.
+# awards:
+#   - title: PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks
+#     url: https://ieeexplore.ieee.org/abstract/document/10580526?casa_token=deqmNK4j6TIAAAAA:V-FHmr6lWWIkSIYbUbVlhP5MBZTLblHGQnbgTjeeo83dnr8hE-HscHnYW5ukLg832cil_T_b
+#     date: '2024-05-09'
+#     awarder: CSCWD 2024
+#     icon: CSCWD 2024
+#     summary: |
+#       Federated Learning (FL) faces two major issues: privacy leakage and poisoning attacks, which may seriously undermine the reliability and security of the system. Overcoming them simultaneously poses a great challenge. This is because privacy protection policies prohibit access to users’ local gradients to avoid privacy leakage, while Byzantine-robust methods necessitate access to these gradients to defend against poisoning attacks. To address these problems, we propose a novel privacy-preserving Byzantine-robust FL framework PROFL. PROFL is based on the two-trapdoor additional homomorphic encryption algorithm and blinding techniques to ensure the data privacy of the entire FL process. During the defense process, PROFL first utilize secure Multi-Krum algorithm to remove malicious gradients at the user level. Then, according to the Pauta criterion, we innovatively propose a statistic-based privacy-preserving defense algorithm to eliminate outlier interference at the feature level and resist impersonation poisoning attacks with stronger concealment. Detailed theoretical analysis proves the security and efficiency of the proposed method. We conducted extensive experiments on two benchmark datasets, and PROFL improved accuracy by 39% to 75% across different attack settings compared to similar privacy-preserving robust methods, demonstrating its significant advantage in robustness.
 
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -173,14 +173,14 @@ awards:
   #     - Synthesize your own blockchain solutions
   #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
   #     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  # - title: 'Object-Oriented Programming in R'
-  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-  #   certificate_url: https://www.datacamp.com
-  #   date: '2023-01-21'
-  #   awarder: datacamp
-  #   icon: datacamp
-  #   summary: |
-  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: 'Mathematical Contest In Modeling (MCM) 2020 – Meritorious Winner'
+    url: https://www.comap.com/contests/mcm-icm
+    # certificate_url: https://www.datacamp.com
+    date: '2020-04-21'
+    awarder: Consortium for Mathematics and Its Applications (COMAP)
+    icon: datacamp
+    summary: |
+      Led a team to develop a 3D cellular automaton model and optimize it using genetic algorithms to solve an open-ended problem. Organized regular pre-competition meetings and simulated contests to enhance team collaboration. Took charge of developing mathematical models, algorithm design, and implementation. Recognized for exceptional teamwork, leadership, and technical contributions.
 ---
 
 ## About Me
