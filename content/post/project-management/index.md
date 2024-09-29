@@ -24,7 +24,7 @@ Mindmaps can be created by simply writing the items as a Markdown list within th
 <div class="highlight">
 <pre class="chroma">
 <code>
-```markmap {height="200px"}
+```markmap {height="500px"}
 - Hugo Modules
   - Hugo Blox
   - blox-plugins-netlify
@@ -37,7 +37,7 @@ Mindmaps can be created by simply writing the items as a Markdown list within th
 
 renders as
 
-```markmap {height="200px"}
+```markmap {height="500px"}
 - Hugo Modules
   - Hugo Blox
   - blox-plugins-netlify
