@@ -122,7 +122,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: LLM
         description: ''
         percent: 40
         icon: circle-stack
@@ -130,11 +130,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Tennis / Football
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Workout
         description: ''
         percent: 100
         icon: cat
@@ -143,18 +143,18 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 70
-  - name: Chinese
-    percent: 100
+# languages:
+#   - name: English
+#     percent: 70
+#   - name: Chinese
+#     percent: 100
 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
+awards:
 #   - title: PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks
 #     url: https://ieeexplore.ieee.org/abstract/document/10580526?casa_token=deqmNK4j6TIAAAAA:V-FHmr6lWWIkSIYbUbVlhP5MBZTLblHGQnbgTjeeo83dnr8hE-HscHnYW5ukLg832cil_T_b
 #     date: '2024-05-09'
