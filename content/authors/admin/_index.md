@@ -152,14 +152,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-#   - title: PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks
-#     url: https://ieeexplore.ieee.org/abstract/document/10580526?casa_token=deqmNK4j6TIAAAAA:V-FHmr6lWWIkSIYbUbVlhP5MBZTLblHGQnbgTjeeo83dnr8hE-HscHnYW5ukLg832cil_T_b
-#     date: '2024-05-09'
-#     awarder: CSCWD 2024
-#     icon: CSCWD 2024
-#     summary: |
-#       Federated Learning (FL) faces two major issues: privacy leakage and poisoning attacks, which may seriously undermine the reliability and security of the system. Overcoming them simultaneously poses a great challenge. This is because privacy protection policies prohibit access to users’ local gradients to avoid privacy leakage, while Byzantine-robust methods necessitate access to these gradients to defend against poisoning attacks. To address these problems, we propose a novel privacy-preserving Byzantine-robust FL framework PROFL. PROFL is based on the two-trapdoor additional homomorphic encryption algorithm and blinding techniques to ensure the data privacy of the entire FL process. During the defense process, PROFL first utilize secure Multi-Krum algorithm to remove malicious gradients at the user level. Then, according to the Pauta criterion, we innovatively propose a statistic-based privacy-preserving defense algorithm to eliminate outlier interference at the feature level and resist impersonation poisoning attacks with stronger concealment. Detailed theoretical analysis proves the security and efficiency of the proposed method. We conducted extensive experiments on two benchmark datasets, and PROFL improved accuracy by 39% to 75% across different attack settings compared to similar privacy-preserving robust methods, demonstrating its significant advantage in robustness.
-
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
