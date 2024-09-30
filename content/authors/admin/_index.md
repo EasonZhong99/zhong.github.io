@@ -138,11 +138,13 @@ skills:
         percent: 80
         icon: camera
 
-# languages:
-#   - name: English
-#     percent: 70
-#   - name: Chinese
-#     percent: 100
+languages:
+  - name: English
+    percent: 70
+  - name: Chinese
+    percent: 100
+  - name: Cantonese
+    percent: 90
 
 
 # Awards.
