@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yisheng(Eason) Zhong
+title: 钟逸晟
 
 # Name pronunciation (optional)
-name_pronunciation: 钟逸晟
+name_pronunciation: Yisheng(Eason) Zhong
 
 # Full name (for SEO)
 first_name: Yisheng
@@ -58,10 +58,10 @@ education:
     date_start: 2024-09-01
     # date_end: Now
     summary: |
-      My research focuses on developing advanced techniques for _LLM unlearning_. Supervised by [Prof Zhuangdi Zhu](https://zhuangdizhu.github.io/).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      My research focuses on developing advanced techniques for _LLM unlearning_. Supervised by Prof Zhuangdi Zhu (https://zhuangdizhu.github.io/).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MEng CyberSecurity
     institution: University of Chinese Academy of Sciences
     date_start: 2021-09-01
@@ -69,10 +69,7 @@ education:
     summary: |
       GPA: 3.6/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I took courses in AI security, including AI, security protocols, cryptography, and privacy-preserving machine learning, which built a solid foundation for my research. After completing the coursework, I explored the intersection of machine learning and information security, focusing on defending against poisoning attacks while preserving privacy in federated learning. I completed this research, and a paper from the work was accepted by CSCWD 2024.
 
   - area: BSc Computer Science
     institution: Harbin University of Science and Technology
@@ -81,10 +78,8 @@ education:
     summary: |
       GPA: 3.8/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I took foundational courses in computer science and introductory courses in machine learning. With my learning ability and self-motivation, I achieved a GPA of 3.8/5.0 and earned a direct admission to pursue a Master’s degree at the Chinese Academy of Sciences, the top scientific research institution in China.
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -130,14 +125,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Tennis / Football
+      - name: Tennis / American Football
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: fa-tennis-ball
       - name: Workout
         description: ''
         percent: 100
-        icon: cat
+        icon: fitness_center
       - name: Photography
         description: ''
         percent: 80
